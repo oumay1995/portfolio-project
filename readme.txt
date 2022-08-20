@@ -23,3 +23,4 @@ If we use object-fit: cover; the image keeps its aspect ratio and fills the give
 The border-radius property defines the radius of the element's corners.
 The inherit keyword specifies that a property should inherit its value from its parent element.
 justify-content :  Align the flex items at the center of the container
+The :last-child selector matches every element that is the last child of its parent
