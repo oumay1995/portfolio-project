@@ -24,3 +24,4 @@ The border-radius property defines the radius of the element's corners.
 The inherit keyword specifies that a property should inherit its value from its parent element.
 justify-content :  Align the flex items at the center of the container
 The :last-child selector matches every element that is the last child of its parent
+Using media queries are a popular technique for delivering a tailored style sheet (responsive web design) to desktops, laptops, tablets, and mobile phones.
